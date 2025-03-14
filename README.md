@@ -11,7 +11,9 @@ I also don't like the orange and white theme of scratch so I want to make it so 
 # Installation
 
 ### The .exe file
-This is definitly the easiest way to install my project on your computer. You just have to download the .exe file and run it by double clicking on it. And you're done! <ins>**But Note that this only works for Windows computers, i dont know if this works on mac computers or any other computers!**</ins>
+This is definitly the easiest way to install my project on your computer. You just have to download the .exe file and run it by double clicking on it. And you're done! 
+> [Note]
+> But Note that this only works for Windows computers, i dont know if this works on mac computers or any other computers!
 ### Raw python file
 First download the python file and go to the [**<ins>official python download website</ins>**](https://www.python.org/downloads/) to download python. After installing python press windows + r and type cmd if you have a windows computer. After pressing enter or ok you will land in a window where you can type code, now you have to type cd + your download folder, it should look similar to this:
 
