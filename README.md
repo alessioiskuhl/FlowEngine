@@ -27,10 +27,10 @@ cd C:/Your User/downloads
 ```
 after doing that run this command:
 ```python
-python Game-Engine.py
+python FlowEngine.py
 ```
 if that isnt working try:
 ```python
-python3 Game-Engine.py
+python3 FlowEngine.py
 ```
-Now the file should just run, if there were any errors submit them to the [Issues tab](https://github.com/alessioiskuhl/My-own-Game-Engine/issues).
+Now the file should just run, if there were any errors submit them to the [Issues tab](https://github.com/alessioiskuhl/FlowEngine/issues).
