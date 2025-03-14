@@ -8,7 +8,7 @@ def home():
 
 @app.route('/run')
 def run_python_script():
-    with open("script.py", "r") as file:
+    with open("Game-Engine.py", "r") as file:
         code = file.read()
     return f"<pre>{code}</pre>"
 
