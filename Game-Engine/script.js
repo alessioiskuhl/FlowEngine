@@ -1,5 +1,10 @@
 const canvas = document.getElementById("gameCanvas");
 const ctx = canvas.getContext("2d");
+const workspace = Blockly.inject('blocklyDiv', {
+    toolbox: `<xml>
+        <block type="move"></block>
+    </xml>`
+});
 
 canvas.width = 600;
 canvas.height = 400;
